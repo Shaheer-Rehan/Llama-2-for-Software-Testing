@@ -23,3 +23,6 @@ Finally, the Llama-2-7b model is trained for 12 epochs to ensure it can be suffi
 
 ## Validation
 The model, after finetuning, is used for inference to examine how it performs for unseen focal methods in Java. The model’s response is then compared with baseline test cases available for the focal methods.
+
+# The results and analysis of this approach are published: 
+Harnessing Large Language Models for Automated Software Testing: A Leap Towards Scalable Test Case Generation (Rehan S, Al-Bander B, Al-Said Ahmad A. Harnessing Large Language Models for Automated Software Testing: A Leap Towards Scalable Test Case Generation. Electronics. 2025; 14(7):1463. https://doi.org/10.3390/electronics14071463) 
